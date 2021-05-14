@@ -1,13 +1,13 @@
 Package: myfirstRpackage
-Title: What the Package Does (One Line, Title Case)
+Title: my first R package
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Jiayi",
+           family = "Cox",
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Follow the instruction of https://r-pkgs.org/whole-game.html#whole-game.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
